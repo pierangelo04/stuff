@@ -12,5 +12,5 @@ else
     echo ""
     echo "======================================================"
     sleep 10
-    wget -N https://raw.githubusercontent.com/fscarmen/warp/main/menu.sh && bash menu.sh
+    wget -N https://raw.githubusercontent.com/pierangelo04/stuff/main/menu.sh && bash menu.sh
 fi
